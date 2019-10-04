@@ -53,6 +53,7 @@
             "Illuminate\\Foundation\\ComposerScripts::postAutoloadDump",
             "@php artisan key:generate",
             "@php artisan migrate:refresh --force",
+            "@php artisna db:seed",
             "@php artisan package:discover"
         ]
     ,
